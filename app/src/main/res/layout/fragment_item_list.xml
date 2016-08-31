@@ -9,5 +9,5 @@
     android:layout_marginLeft="16dp"
     android:layout_marginRight="16dp"
     app:layoutManager="LinearLayoutManager"
-    tools:context="com.epaisa.app.SongsItemFragment"
+    tools:context="com.iTune.music.app.SongsItemFragment"
     tools:listitem="@layout/fragment_item" />

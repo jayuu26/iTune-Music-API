@@ -1,4 +1,4 @@
-package com.epaisa.adapter;
+package com.iTune.music.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,11 +9,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.bumptech.glide.Glide;
-import com.epaisa.data.Results;
-import com.epaisa.data.TrackData;
-import com.epaisa.util.AppUtill;
-import com.epesa.com.epaisa.R;
+import com.iTune.music.data.Results;
+import com.iTune.music.util.AppUtill;
+import com.iTune.music.R;
 
 import java.util.ArrayList;
 

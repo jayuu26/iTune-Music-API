@@ -1,11 +1,10 @@
-package com.epaisa.app;
+package com.iTune.music.app;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Window;
-
-import com.epesa.com.epaisa.R;
+import com.iTune.music.R;
 
 /**
  * Created by ist on 25/8/16.

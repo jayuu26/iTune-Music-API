@@ -1,4 +1,4 @@
-package com.epaisa.app;
+package com.iTune.music.app;
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
@@ -12,8 +12,9 @@ import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.epaisa.util.AppUtill;
-import com.epesa.com.epaisa.R;
+
+import com.iTune.music.R;
+import com.iTune.music.util.AppUtill;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

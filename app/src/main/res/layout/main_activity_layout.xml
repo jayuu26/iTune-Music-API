@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context ="com.epaisa.app.MainActivity">
+    tools:context ="com.iTune.music.app.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

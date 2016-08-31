@@ -1,7 +1,4 @@
-package com.epaisa.data;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.iTune.music.data;
 
 /**
  * Created by ist on 25/8/16.

@@ -1,4 +1,4 @@
-package com.epaisa.app;
+package com.iTune.music.app;
 
 import android.content.Context;
 import android.media.MediaPlayer;
@@ -15,10 +15,9 @@ import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.epaisa.data.Results;
-import com.epaisa.util.AppUtill;
-import com.epesa.com.epaisa.R;
-
+import com.iTune.music.data.Results;
+import com.iTune.music.util.AppUtill;
+import com.iTune.music.R;
 import java.io.IOException;
 
 public class PlayerFragment extends Fragment implements View.OnClickListener, MediaPlayer.OnCompletionListener, SeekBar.OnSeekBarChangeListener {

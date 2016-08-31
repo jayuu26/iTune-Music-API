@@ -1,4 +1,4 @@
-package com.epaisa.app;
+package com.iTune.music.app;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -13,16 +13,13 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.epaisa.Listener.SearchListener;
-import com.epaisa.adapter.SongListAdapter;
-import com.epaisa.data.DataHandler;
-import com.epaisa.data.Results;
-import com.epaisa.data.TrackData;
-import com.epaisa.service.DownloadData;
-import com.epaisa.util.AppUtill;
-import com.epesa.com.epaisa.R;
-
-import org.w3c.dom.Text;
+import com.iTune.music.Listener.SearchListener;
+import com.iTune.music.data.DataHandler;
+import com.iTune.music.util.AppUtill;
+import com.iTune.music.adapter.SongListAdapter;
+import com.iTune.music.data.Results;
+import com.iTune.music.service.DownloadData;
+import com.iTune.music.R;
 
 import java.util.ArrayList;
 

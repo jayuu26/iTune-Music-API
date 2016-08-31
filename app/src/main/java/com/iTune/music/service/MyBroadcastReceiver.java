@@ -1,12 +1,9 @@
-package com.epaisa.service;
+package com.iTune.music.service;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.media.MediaPlayer;
 import android.widget.Toast;
-
-import com.epesa.com.epaisa.R;
 
 public class MyBroadcastReceiver extends BroadcastReceiver {
     public MyBroadcastReceiver() {
